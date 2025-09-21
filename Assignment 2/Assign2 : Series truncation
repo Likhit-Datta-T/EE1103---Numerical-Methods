@@ -5,7 +5,7 @@ The objectives of this assignment are
 1.  Understand how series truncation causes errors
 
 2.  Learn to use the [math
-    > library](https://courses.iitm.ac.in/mod/url/view.php?id=43361)
+    > library](https://www.geeksforgeeks.org/c-library-math-h-functions/?ref=ml_lbp)
     > (include math.h and link the library during compilation)
 
 3.  Understand the use of data types (int, float, double) and correctly
@@ -25,5 +25,5 @@ Your program should output only two %.3f values (separated by a comma)
 
 2.  The error between the estimated value and the true value (from the
     > [math
-    > library](https://courses.iitm.ac.in/mod/url/view.php?id=43361)
+    > library](https://www.geeksforgeeks.org/c-library-math-h-functions/?ref=ml_lbp)
     > function sin())
