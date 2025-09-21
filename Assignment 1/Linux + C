@@ -1,0 +1,9 @@
+LINUX + C
+
+Linux Command Cheat Sheet : https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+
+Learn your way around a Linux operating system (find a cheat sheet, get used to the command line and things like ls, cd, mv, less, pwd, etc)
+Get some basic C code working (take inputs as arguments on command line and add two numebrs)
+FIgure out your compiler (gcc is a good option) and your editor
+Do simple things with data using grep, awk, sed, and learn how to pipe and redirect outputs
+
